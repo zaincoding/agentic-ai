@@ -1,0 +1,10 @@
+# Python-generated files
+hello/__pycache__/
+hello/*.py[oc]
+hello/build/
+hello/dist/
+hello/wheels/
+hello/*.egg-info
+
+# Virtual environments
+hello/.venv
